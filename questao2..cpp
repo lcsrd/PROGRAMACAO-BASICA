@@ -8,7 +8,7 @@ int main () {
 	//imprindo variavel "a"
 	printf("o valor de a = %d", a);
 	//pular para proxima linha
-    printf("\n");
+   	printf("\n");
 	//imprindo variavel "b"
 	printf("o valor de b = %d", b);
 	
