@@ -17,5 +17,5 @@ int main () {
     	//imprindo variavel "altura"
 	printf("altura = %.2f", altura);
     
-   	 return 0;
+   	return 0;
 }
