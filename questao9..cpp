@@ -29,5 +29,5 @@ int main () {
     	//divisao
 	printf("\n a divisao de %d / %d = %d", a, b, a / b);
     
-    return 0;
+    	return 0;
 }
