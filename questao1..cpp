@@ -9,12 +9,12 @@ int main () {
 	//imprindo variavel "idade"
 	printf("idade = %d", idade);
 	//pular para proxima linha
-    printf("\n");
-    //imprindo variavel "peso"
+    	printf("\n");
+    	//imprindo variavel "peso"
 	printf("peso = %d", peso);
 	//pular para proxima linha
-    printf("\n");
-    //imprindo variavel "altura"
+    	printf("\n");
+    	//imprindo variavel "altura"
 	printf("altura = %.2f", altura);
     
     return 0;
